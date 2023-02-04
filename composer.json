@@ -1,26 +1,26 @@
 {
-    "name": "ekapaksi/pcare",
-    "description": "Wrapper for BPJS Indonesia",
-    "type": "package",
-    "authors": [
-        {
-            "name": "Joseff Indradjaja",
-            "email": "joseff@hotmail.com"
-        },
-        {
-            "name": "Neno Sulistiyawan",
-            "email": "aburamesino@gmail.com"
-        }
-    ],
-    "license": "mit",
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": {
-            "Nsulistiyawan\\Bpjs\\": "src/"
-        }
-    },
-    "require": {
-        "guzzlehttp/guzzle": "^7.0.1",
-        "nullpunkt/lz-string-php": "^1.3"
-    }
+  "name": "ekapaksi/pcare",
+  "description": "Wrapper for BPJS Indonesia",
+  "type": "package",
+  "authors": [
+      {
+          "name": "Eka Paksi",
+          "email": "eka@hotmail.com"
+      },
+      {
+          "name": "Neno Sulistiyawan",
+          "email": "aburamesino@gmail.com"
+      }
+  ],
+  "license": "mit",
+  "minimum-stability": "dev",
+  "autoload": {
+      "psr-4": {
+          "Nsulistiyawan\\Bpjs\\": "src/"
+      }
+  },
+  "require": {
+      "guzzlehttp/guzzle": "^7.0.1",
+      "nullpunkt/lz-string-php": "^1.3"
+  }
 }
