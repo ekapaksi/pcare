@@ -7,7 +7,7 @@ Created because i don't really wanna get my hands dirty coz of using the old php
 
 #### Installation :fire:
 
-`composer require nsulistiyawan/bpjs`
+`composer require ekapaksi/pcare:dev-master`
 
 #### Example Usage :confetti_ball:
 ```php
